@@ -1,6 +1,8 @@
 # CFPushVCWith-CATransition
 ### 利用CATransition-给push控制器添加丰富的动画效果
 
+### 简书地址 (http://www.jianshu.com/p/15f5dd0e7604)
+
 ##### demo展示 - 由于网络原因, 可能gif效果图会展示的比较卡, 可以下载运行查看demo---简单使用代码
 
 ### 效果图集
